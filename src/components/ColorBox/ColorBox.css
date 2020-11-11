@@ -1,0 +1,13 @@
+.color-box {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  color: black;
+  border-radius: 8px;
+  transition: background 0.5s ease-in-out 0s;
+}
+
+.color-box:hover {
+  cursor: pointer;
+}
